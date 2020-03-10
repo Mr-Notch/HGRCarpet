@@ -7,4 +7,6 @@ A carpet mod for Forge or Rift on server.
 
 Because the existing carpetMOD only exists in the vanilla server core, I want to develop a Carpet based on a host API such as Forge or Rift. In this way, you can add some MODs (basic plug-ins) such as WorldEdit, Essentials, etc. while using the carpet end.
 
+Rift可以用在服务端上吗？
 
+Can Rift be used in the server? ��
